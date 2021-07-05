@@ -31,14 +31,6 @@ class Auth {
       await FirebaseAuth.instance.signInWithCredential(credential);
       String idToken = await FirebaseAuth.instance.currentUser.getIdToken();
       if (googleUser != null) {
-        print(googleUser.photoUrl);
-        print(googleUser.displayName);
-        print(googleUser.email);
-        print(googleAuth.idToken);
-        print(auth.currentUser.uid);
-        print(user);
-        print(idToken);
-        print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
         if (user == "no user found") {
           print("No user found");
         }

@@ -13,11 +13,6 @@ class NavigationDrawer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print("++++++++++++ Drawer ++++++++++");
-    print(phone);
-    print(profilePic);
-    print(id);
-    print(profilePic);
     return Drawer(
       child: new ListView(
         children: <Widget>[

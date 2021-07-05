@@ -469,7 +469,6 @@ class _ProductListHomeState extends State<ProductListHome>
     });
   }
   resetCartNumber(int val){
-    print("++++++++++++++  Count Called  ++++++++++++++");
     setState(() {
       cartCount = val;
     });
