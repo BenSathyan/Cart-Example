@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979044036128",
+    "project_id": "test-ben-ff561",
+    "storage_bucket": "test-ben-ff561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979044036128:android:d6f141cd9fa09622ebd645",
+        "android_client_info": {
+          "package_name": "com.dk.test_ben"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979044036128-kf2omrksdevubi7muo1av9m34qd5bqg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dk.test_ben",
+            "certificate_hash": "845fc155b15d3641d41532e699f9c5a17482483b"
+          }
+        },
+        {
+          "client_id": "979044036128-ur83q14nathaph428c4e68c4tgle7pr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxg24nSxTt2tosoMnhVqhZ6xLfAV_MMBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979044036128-ur83q14nathaph428c4e68c4tgle7pr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
